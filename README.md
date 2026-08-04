@@ -1,9 +1,11 @@
 **A repository for sharing legally distributable BitTorrent files created by me or other contributors.**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**1. Only content that is licensed for publication will be accepted.
-2. Free software, Linux distributions, public data, and works with free licenses will be published.
-3. Copyrighted content without permission will not be accepted.**
+**1. Only content that is licensed for publication will be accepted.**
+
+**2. Free software, Linux distributions, public data, and works with free licenses will be published.**
+
+**3. Copyrighted content without permission will not be accepted.**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -11,9 +13,10 @@
 این مخزن برای گردآوری، انتشار و اشتراک‌گذاری تورنت‌های کاملاً قانونی است که توسط من یا سایر مشارکت‌کنندگان ایجاد شده‌اند.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ۱.فقط محتوایی که مجوز انتشار دارد پذیرفته میشود. 
+
 ۲.نرم‌افزارهای آزاد، توزیع های لینوکس،داده های عمومی و آثار دارای مجوز آزاد هستن منتشر میشود.
+
 ۳.محتوایی دارای حق نشر بدون مجوز پذیرفته نمی شود.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
