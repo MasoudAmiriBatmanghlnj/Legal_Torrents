@@ -1,1 +1,2 @@
 Add OBS-Studio-33.0.0-Windows-x64.zip
+Add OBS-Studio-33.0.1-Ubuntu-26.04-x86_64
